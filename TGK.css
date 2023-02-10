@@ -1,0 +1,81 @@
+body{
+    margin: 30px;  
+   background-color: #F8F8F8;
+    line-height: 80px;  
+    /* text-align: justify;  */
+    width: 80% !important;
+    width: 170vh; 
+   font-family: 'Open Sans', sans-serif;
+
+
+
+}
+
+#text{
+   width: 170vh;
+   font-size: 55px; 
+   /* margin: 30px; */
+   text-decoration: none;
+   margin: 15px; 
+   position: relative; 
+   /* position: relative; */
+   top: 2px;
+   /* width: 100%; */
+   /* margin: 30px;   */
+
+   
+}
+
+.glav{
+    
+   font-size: 55px 
+   /* margin: 30px;   */
+  
+  
+}
+
+#textglav{
+    font-size: 35px 
+    /* margin: 30px;   */
+
+   /* line-height: 25px;; */
+}
+
+.katolog{
+   margin-left: -28px;
+   text-decoration: none;
+   /* padding-top: 50px; */
+   font-size: 150%;
+   
+   /* display: flex;  */
+   position: fixed;
+   background:#fff;
+   padding: 0PX;
+   /* padding: 0.2rem -500PX; */
+   /* margin: 0%; */
+   top: 0;
+   width: 100%;
+   height: 65px;
+ 
+   /* right: 1.2%; */
+   box-shadow: 0 2px 7px 1px rgb(0 0 0 / 7%);
+}
+
+
+
+.nav-item{
+   text-decoration: none;
+   font-family: 'Open Sans', sans-serif;
+   color: black;
+   width: 200%;
+   font-weight: 700px;
+   margin-right: 100px;
+   right: 50;
+   /* position: fixed; */
+
+}
+
+a:hover{
+   color: #640ef7;
+   text-decoration: underline;
+}
